@@ -1,2 +1,2 @@
 # Game-Engine-Development
-This repository is created for the final project of the Computer Graphics course. Any project-related stuff will continue to update phase by phase.
+This repository was created for the final project of the Computer Graphics course. Any project-related updates will be provided in phases
